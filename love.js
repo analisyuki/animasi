@@ -6,7 +6,7 @@
 			******************************************/
 			  
 			  //Configure below to change URL path to the snow image
-			  var snowsrc="https://1.bp.blogspot.com/-NVoVVmpARIk/XY8XU8Pp9UI/AAAAAAAAABU/HutU7MeUCVEWvPgtbIVTPvrm9ebYLr8CACLcBGAsYHQ/s1600/love.png";
+			  var snowsrc="https://1.bp.blogspot.com/-btB04S4FSeU/XY8Yw4C55ZI/AAAAAAAAABg/_BtEdvzzMJs2hVsx8q5o0awN6YUsERErwCLcBGAsYHQ/s1600/love1.png";
 			  // Configure below to change number of snow to render
 			  var no = 20;
 			  // Configure whether snow should disappear after x seconds (0=never):
